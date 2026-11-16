@@ -1,5 +1,7 @@
 # Inferbase
 
+**The control plane for AI models: route, govern, observe.**
+
 One OpenAI-compatible API for every model. Send `model: "auto"` and each request is routed to the
 best model for the task on quality, cost and latency, with the reason kept on record.
 
